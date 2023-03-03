@@ -1,4 +1,4 @@
-# This code was written by @Anurag_Kanade
+# This code was written by @Anurag_Kanade on 2 march 2023
 
 '''Day 1 coding Statement: Write a program to identify if the character is a vowel or consonant.
 Description of the program: 
