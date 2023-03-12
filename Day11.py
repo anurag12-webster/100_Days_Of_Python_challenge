@@ -1,3 +1,6 @@
+#  This code was written by @Anurag_Kanade on 12 march 2023
+'''Day 11 coding Statement:  Write a program to find Fibonacci series up to n'''
+
 # getting the nth term from user
 number = int(input())
 
